@@ -1,1 +1,1 @@
-# codeacademy_frontend
+style-conference exercise from CodeAcademy
